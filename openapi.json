@@ -1,0 +1,52 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Recruitment Scorer API",
+    "version": "1.0.0",
+    "description": "Calculates a match score between a resume and job description."
+  },
+  "servers": [
+    {
+      "url": "https://edward-gestic-natantly.ngrok-free.dev"
+    }
+  ],
+  "paths": {
+    "/score_candidate": {
+      "post": {
+        "summary": "Score a candidate",
+        "operationId": "scoreCandidate",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "resume_text": { "type": "string", "example": "Experienced Python Developer with 5 years in AI." },
+                  "job_desc": { "type": "string", "example": "Looking for Python expert with AI knowledge." }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful score",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "score": { "type": "integer" },
+                    "decision": { "type": "string" },
+                    "explanation": { "type": "string" }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

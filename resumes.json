@@ -1,0 +1,156 @@
+[
+  {
+    "resume_id": "R1",
+    "name": "Aarav Mehta",
+    "location": "Bangalore",
+    "target_role": "Data Scientist",
+    "summary": "Data scientist with 3 years of experience building predictive models and dashboards to support marketing and growth teams.",
+    "skills": ["Python", "SQL", "Pandas", "Scikit-learn", "Statistics", "Machine Learning", "Data Visualization", "Tableau"],
+    "experience_years": 3,
+    "experience": [
+      "Built churn prediction and lead scoring models improving campaign conversion by 14%",
+      "Automated reporting pipelines using Python and SQL",
+      "Designed Tableau dashboards for leadership reviews"
+    ],
+    "education": "B.Tech in Computer Science",
+    "match_intent": "Strong match for Data Scientist"
+  },
+  {
+    "resume_id": "R2",
+    "name": "Ishita Sharma",
+    "location": "Delhi",
+    "target_role": "Python Backend Developer",
+    "summary": "Backend developer with experience building REST APIs using Django and Flask with a focus on clean, testable code.",
+    "skills": ["Python", "Django", "Flask", "REST APIs", "PostgreSQL", "Docker", "Git", "Unit Testing"],
+    "experience_years": 2,
+    "experience": [
+      "Developed REST APIs for authentication and billing modules",
+      "Optimized database queries reducing response times",
+      "Implemented CI workflows using GitHub Actions"
+    ],
+    "education": "B.Sc in Computer Science",
+    "match_intent": "Strong match for Python Backend Developer"
+  },
+  {
+    "resume_id": "R3",
+    "name": "Rohan Kulkarni",
+    "location": "Pune",
+    "target_role": "Machine Learning Engineer",
+    "summary": "Machine learning engineer experienced in deploying scalable ML pipelines and monitoring production models on cloud platforms.",
+    "skills": ["Python", "TensorFlow", "PyTorch", "Scikit-learn", "Airflow", "MLflow", "Docker", "AWS"],
+    "experience_years": 4,
+    "experience": [
+      "Deployed ML services using Docker and AWS ECS",
+      "Built Airflow pipelines for feature engineering and retraining",
+      "Implemented monitoring for latency and model drift"
+    ],
+    "education": "M.Tech in Data Science",
+    "match_intent": "Strong match for Machine Learning Engineer"
+  },
+  {
+    "resume_id": "R4",
+    "name": "Neha Gupta",
+    "location": "Noida",
+    "target_role": "Data Analyst",
+    "summary": "Data analyst with strong SQL and BI skills, experienced in creating dashboards for operations and leadership teams.",
+    "skills": ["SQL", "Excel", "Power BI", "Tableau", "Data Cleaning", "Business Storytelling"],
+    "experience_years": 2,
+    "experience": [
+      "Created Power BI dashboards to track operational KPIs",
+      "Built reusable SQL views for reporting",
+      "Ensured data consistency across dashboards"
+    ],
+    "education": "B.Com (Hons) with Data Analytics",
+    "match_intent": "Strong match for Data Analyst"
+  },
+  {
+    "resume_id": "R5",
+    "name": "Vikram Singh",
+    "location": "Mumbai",
+    "target_role": "Python Backend Developer",
+    "summary": "Entry-level backend developer transitioning from QA with hands-on experience in Python scripting and API testing.",
+    "skills": ["Python", "Flask", "SQLite", "REST APIs", "Git", "Shell Scripting"],
+    "experience_years": 2,
+    "experience": [
+      "Automated API testing using Python",
+      "Assisted backend teams in debugging production issues"
+    ],
+    "education": "B.E. in Information Technology",
+    "match_intent": "Partial match for Python Backend Developer"
+  },
+  {
+    "resume_id": "R6",
+    "name": "Sara Fernandes",
+    "location": "Bangalore",
+    "target_role": "Data Analyst",
+    "summary": "Recent graduate with internship experience in SQL querying and dashboard creation, seeking entry-level analyst roles.",
+    "skills": ["SQL", "Excel", "Tableau", "Data Cleaning", "Business Analysis"],
+    "experience_years": 1,
+    "experience": [
+      "Built Tableau dashboards for sales performance",
+      "Wrote SQL queries for data aggregation"
+    ],
+    "education": "B.Sc in Statistics",
+    "match_intent": "Entry-level match for Data Analyst"
+  },
+  {
+    "resume_id": "R7",
+    "name": "Karan Patel",
+    "location": "Mumbai",
+    "target_role": "Python Backend Developer",
+    "summary": "Backend-focused full-stack developer experienced in building scalable APIs and containerized services.",
+    "skills": ["Python", "Django", "Flask", "PostgreSQL", "Docker", "REST APIs"],
+    "experience_years": 2,
+    "experience": [
+      "Built REST APIs serving high-volume traffic",
+      "Dockerized backend services and set up CI/CD pipelines"
+    ],
+    "education": "B.Tech in Computer Science",
+    "match_intent": "Strong match for Python Backend Developer"
+  },
+  {
+    "resume_id": "R8",
+    "name": "Priya Rao",
+    "location": "Pune",
+    "target_role": "Data Scientist",
+    "summary": "Data scientist specializing in NLP and recommendation systems with experience in model fine-tuning.",
+    "skills": ["Python", "SQL", "Scikit-learn", "NLP", "Pandas", "TensorFlow"],
+    "experience_years": 2,
+    "experience": [
+      "Built recommendation engines using collaborative filtering",
+      "Fine-tuned NLP models for resume parsing tasks"
+    ],
+    "education": "M.Sc in Data Science",
+    "match_intent": "Good match for Data Scientist"
+  },
+  {
+    "resume_id": "R9",
+    "name": "Rajesh Kumar",
+    "location": "Delhi",
+    "target_role": "Data Analyst",
+    "summary": "Business analyst with strong Excel and BI skills but limited exposure to programming.",
+    "skills": ["Excel", "SQL", "Power BI", "Business Analysis"],
+    "experience_years": 3,
+    "experience": [
+      "Created sales dashboards using Power BI",
+      "Performed competitor analysis using Excel"
+    ],
+    "education": "B.Com",
+    "match_intent": "Weak match for Data Analyst"
+  },
+  {
+    "resume_id": "R10",
+    "name": "Anita Desai",
+    "location": "Remote",
+    "target_role": "Machine Learning Engineer",
+    "summary": "ML engineer focused on deployment pipelines, automation, and cloud-based model serving.",
+    "skills": ["Python", "PyTorch", "Docker", "MLflow", "AWS", "Airflow"],
+    "experience_years": 3,
+    "experience": [
+      "Deployed ML models to AWS SageMaker",
+      "Automated training pipelines using Airflow"
+    ],
+    "education": "M.Tech in Artificial Intelligence",
+    "match_intent": "Strong match for Machine Learning Engineer"
+  }
+]
