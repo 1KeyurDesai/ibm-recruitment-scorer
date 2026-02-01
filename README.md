@@ -1,11 +1,11 @@
-# AI Recruitment Scorer (Team AIGINITE) 🚀
+# ResuMatch AI (IBM Recruitment Scorer) 🚀
 **A Hybrid Cloud Agent for Automated Resume Screening**
 
-Built for the **IBM Dev Day AI Demystified Hackathon**.
+*Built by Team AIGINITE for the IBM Dev Day AI Demystified Hackathon.*
 
 ## 📖 Project Overview
 Recruiters are overwhelmed by volume. Manual screening leads to fatigue and bias. 
-**Recruitment Scorer** is an agentic AI tool that integrates **IBM watsonx Orchestrate** with a custom Python scoring engine. It instantly parses resumes, matches them against job descriptions, and provides a 0-100 fit score with a "Shortlist/Reject" decision.
+**ResuMatch AI** (formerly IBM Recruitment Scorer) is an agentic AI tool that integrates **IBM watsonx Orchestrate** with a custom Python scoring engine. It instantly parses resumes, matches them against job descriptions, and provides a 0-100 fit score with a "Shortlist/Reject" decision.
 
 ## 🛠️ Tech Stack
 * **Orchestrator:** IBM watsonx Orchestrate (Primary Agent Interface)
@@ -42,4 +42,9 @@ Recruiters are overwhelmed by volume. Manual screening leads to fatigue and bias
     * Import `openapi.json` into IBM watsonx Orchestrate.
 
 ---
-*Created by Keyur, Nikole, Shruti, and Drishty (Team AIGINITE)*
+
+### 👥 Team AIGINITE
+* **Keyur**
+* **Nikole**
+* **Shruti**
+* **Drishty**
